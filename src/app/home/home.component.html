@@ -1,0 +1,14 @@
+<div class="material-table">
+  <h3>Material search filter.</h3>
+  <mat-form-field appearance="fill">
+    <mat-label>Search countries by name</mat-label>
+    <input
+      matInput
+      (input)="onKey($event)"
+      placeholder="Search country by name"
+    />
+    <mat-icon class='search-icon' color="primary" matPrefix
+      >search</mat-icon
+    >
+  </mat-form-field>
+</div>
