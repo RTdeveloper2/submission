@@ -1,0 +1,64 @@
+{
+    "message":[
+        {
+            "dataConcept":[{
+                "details":[{
+                    "uid": "023327",
+                    "name":"Contract Maturity"
+                }]
+            }],
+
+            "technicalAsset":[{
+                "uid": "7878779",
+                "name": "Banco Central"
+            },{
+                "uid": "sss",
+                "name": "Banco mojo"
+            }],
+            "qualifiers":[
+                {
+                    "details":[{
+                        "uid": "023327",
+                        "name":"fee-based products",
+                        "level":"3"
+                    },
+                    {
+                        "uid": "023327",
+                        "name":"flending products",
+                        "level":"3"
+                    }],
+                   "type" :"PTYP"
+                },
+                {
+                    "details":[{
+                        "uid": "023327",
+                        "name":"fee-based products",
+                        "level":"3"
+                    },
+                    {
+                        "uid": "023327",
+                        "name":"flending products",
+                        "level":"3"
+                    }],
+                   "type" :"MSEG"
+                },
+                {
+                    "details":[{
+                        "uid": "023327",
+                        "name":"fee-based products",
+                        "level":"3"
+                    },
+                    {
+                        "uid": "023327",
+                        "name":"flending products",
+                        "level":"3"
+                    }],
+                   "type" :"MGEO"
+                }
+            ],
+            "opfact": "manual",
+            "status": "Active"
+        }
+    ],
+    "fault":{}
+}
